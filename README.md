@@ -5,4 +5,4 @@ A text based console game built using Java as my final project of my first year 
 # What I Learned
 * Object Orientated Programming
 * Data structures such as arrays and lists
-* SOLID Principles
+* SOLID & DRY Principles
